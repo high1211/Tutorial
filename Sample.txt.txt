@@ -1,8 +1,4 @@
 First Git Commit
 新增一行文字在這做測試
 
-<<<<<<< HEAD
-Tutorial commit
-=======
-Tutorial2 commit
->>>>>>> 951ddebe123fa89184c39d8b15b4b3de04be78cf
+Tutorial Commit
