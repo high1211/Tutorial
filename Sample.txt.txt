@@ -2,4 +2,9 @@ First Git Commit
 新增一行文字在這做測試
 
 Tutorial1 Commit
+<<<<<<< HEAD
 加入等級系統
+=======
+
+加入任務功能
+>>>>>>> 23cfb72f97d5bbcdd40e1893f73595764f32c127
